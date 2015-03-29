@@ -51,7 +51,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
-  color: #6d6d6d;
+  color: #3a3a3a;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
 }
@@ -167,8 +167,8 @@ a.button span {
 
 code, pre {
   margin-bottom: 30px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
-  font-size: 14px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Monospace;
+  font-size: 0.95em;
   color: #222;
 }
 
@@ -248,14 +248,14 @@ h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #d5000d;
 }
 
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
-  font-weight: bold;
-  color: #d5000d;
+  font-weight: normal;
+  color: #303030;
 }
 
 h4 {
