@@ -48,7 +48,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: Calibri,Carlito,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
   font-size: 1em;
   line-height: 1.5;
   color: #3a3a3a;
@@ -91,7 +91,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 750px;
   margin: 0 auto;
 }
 
@@ -169,7 +169,7 @@ a.button span {
 code, pre {
   margin-bottom: 30px;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Monospace;
-  font-size: 0.95em;
+  font-size: 0.875em;
   color: #222;
 }
 
@@ -249,6 +249,7 @@ h1 {
 h2 {
   margin-bottom: 8px;
   font-size: 26px;
+  font-style: italic;
   color: #2874a6;
 }
 
